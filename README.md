@@ -56,4 +56,4 @@ These filters allow users to interactively explore customer segments.
 
 ## 👨‍💻 Author
 
-G.Yashwanth Reddy
+Gurrala Yashwanth Reddy
